@@ -1,4 +1,5 @@
 language: java
 sudo: false
 script: mvn clean build
+script: mvn test
 script: mvn clean verify
