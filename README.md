@@ -21,6 +21,6 @@
 - Spring MVC 、Spring Data JDBC/JPA/Redis/MongoDB、Spring AMQP、
 - Spring Boot 、Spring Cloud
 
-书籍：《Spring Boot实战》  《Spring Cloud微服务实战》
+书籍：[《Spring Boot实战》](https://item.jd.com/11969881.html)  [《Spring Cloud微服务实战》](https://item.jd.com/12172344.html)
 ## Docker 容器
 
